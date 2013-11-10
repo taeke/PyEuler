@@ -34,3 +34,10 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+#Specific dirs
+Tools/Keepfocused/KeepFocused/
+Tools/NotePad++/npp.6.3.bin/
+
+#specific files
+*.lnk
