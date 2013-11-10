@@ -1,0 +1,19 @@
+LINKS
+=====
+- Project Euler
+http://projecteuler.net/
+
+- Tutorial 
+http://docs.python.org/3.3/tutorial/
+
+- Tutorial
+http://learnpythonthehardway.org/book/
+
+- webserver
+http://nginx.org/en/docs/
+
+- start euler from notepad++
+http://stackoverflow.com/questions/1702586/how-to-execute-a-python-file-in-notepad
+
+- Reverse a string in Python
+http://stackoverflow.com/questions/931092/reverse-a-string-in-python

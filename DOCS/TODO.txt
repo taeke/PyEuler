@@ -1,0 +1,12 @@
+TODO
+====
+- fatsoeneren en uploaden naar GitHub.
+
+DONE
+====
+- Python downloaden, installeren en snelkoppeling naar Python shell in projectmap.
+- Doornemen tutorial die joost mailde.
+- Een py script maken voor het eulerproject en aan basis maken voor het maken van de oplossingen.
+- Aan batch bestand maken voor het starten van het py script vanuit Notepad++.
+- Aanpassen van de batch file zodat hij algemener toe te passen is.
+- Programmeren van de oplossingen aan de hand van de oplossingen uit c#.

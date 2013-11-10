@@ -1,0 +1,3 @@
+LOG
+===
+python.exe "D:\Source\Python Euler\SOURCE\Euler.py"
